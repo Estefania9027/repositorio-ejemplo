@@ -1,5 +1,5 @@
 let salarioMinimo2024 = 1300000;
-let salarioSup2 = (salarioMinimo2024 * 2);
+let salarioSup2 = salarioMinimo2024 * 2;
 let salarioMensual = 0;
 let aporteSalud = salarioMensual * 12.5%;
 let aportePension = salarioMensual * 16%;
