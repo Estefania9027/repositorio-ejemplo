@@ -11,6 +11,6 @@ salarioMensual = prompt("Me indica su salario mensual");
 if salarioMensual < salarioMinimo2024*2 {
   let calculoIngresosMensual = alert("Su Ingreso mensual es" ${salarioMensual + aporteSalud + 
                                                                      aportepension + cesantias + prima + auxiliotransp};
-else (salarioMensual + aporteSalud + aportepension + cesantias + prima);
+else alert("Su Ingreso mensual es" ${salarioMensual + aporteSalud + aportepension + cesantias + prima};
   
 
