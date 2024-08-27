@@ -3,5 +3,5 @@
 <h2>Sumergete en Javascript</h2>
 
 <div>
-  <img src="">
+  <img src="Fondo-azul-rojo.webp">
 </div>
